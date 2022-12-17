@@ -1,0 +1,19 @@
+.Name {
+    margin-left: 100px;
+    margin-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 45px;
+  }
+  .Comment{
+    margin-left: 100px;
+    margin-top: 20px;
+    font-family: 'Times New Roman', Times, serif
+    
+  }
+  .element{
+    font-size: 20px;
+    margin-left: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+  }

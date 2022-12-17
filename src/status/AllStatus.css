@@ -1,0 +1,23 @@
+.Status{
+    place-items: center;
+    
+}
+.Title {
+    margin-left: 100px;
+    margin-top: 20px;
+    font-family: Helvetica, Arial, sans-serif;
+    color: black;
+    font-size: 45px;
+  }
+.table{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.name{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.comment{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
